@@ -4,7 +4,7 @@ import type * as Preset from "@docusaurus/preset-classic"
 
 const config: Config = {
   title: "Anthony Ly",
-  tagline: "Developer & Entrepreneur",
+  tagline: "Software Developer & Entrepreneur",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -35,10 +35,6 @@ const config: Config = {
       {
         docs: {
           sidebarPath: "./sidebars.ts",
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         blog: {
           showReadingTime: true,
@@ -67,11 +63,17 @@ const config: Config = {
         { to: "/resume", label: "CV", position: "left" },
         {
           type: "docSidebar",
+          sidebarId: "projectsSidebar",
+          position: "left",
+          label: "Projets",
+        },
+        {
+          type: "docSidebar",
           sidebarId: "docsSidebar",
           position: "left",
-          label: "Docs",
+          label: "Notes",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        //{ to: "/blog", label: "Blog", position: "left" },
         {
           label: "LinkedIn",
           href: "https://www.linkedin.com/in/anthonyly-dev/",
@@ -88,10 +90,14 @@ const config: Config = {
       style: "dark",
       links: [
         {
-          title: "Docs",
+          title: "Website",
           items: [
             {
-              label: "All docs",
+              label: "CV",
+              to: "/resume",
+            },
+            {
+              label: "Notes",
               to: "/docs/intro",
             },
           ],
@@ -112,10 +118,10 @@ const config: Config = {
         {
           title: "More",
           items: [
-            {
+            /* {
               label: "Blog",
               to: "/blog",
-            },
+            },*/
             {
               label: "GitHub",
               href: "https://github.com/tonylyjones",

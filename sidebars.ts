@@ -17,12 +17,15 @@ const sidebars: SidebarsConfig = {
   // But you can create a sidebar manually
 
   docsSidebar: [
+    "intro",
     {
       type: "category",
       label: "NestJS",
       items: ["nestjs/nest-ddd-cqrs"],
     },
   ],
+
+  projectsSidebar: ["projects/intro"],
 }
 
 export default sidebars
