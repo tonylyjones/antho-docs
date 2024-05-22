@@ -64,6 +64,7 @@ const config: Config = {
         src: "img/logo-anthonyly.png",
       },
       items: [
+        { to: "/resume", label: "CV", position: "left" },
         {
           type: "docSidebar",
           sidebarId: "docsSidebar",
