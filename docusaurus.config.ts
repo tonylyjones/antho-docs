@@ -11,7 +11,7 @@ const config: Config = {
   url: "https://anthonyly.dev/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/docs/",
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -66,14 +66,19 @@ const config: Config = {
       items: [
         {
           type: "docSidebar",
-          sidebarId: "tutorialSidebar",
+          sidebarId: "docsSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "Docs",
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
-          label: "GitHub",
+          label: "LinkedIn",
+          href: "https://www.linkedin.com/in/anthonyly-dev/",
+          position: "right",
+        },
+        {
+          label: "Twitter",
+          href: "https://twitter.com/tonylyjones",
           position: "right",
         },
       ],
@@ -85,25 +90,21 @@ const config: Config = {
           title: "Docs",
           items: [
             {
-              label: "Tutorial",
+              label: "All docs",
               to: "/docs/intro",
             },
           ],
         },
         {
-          title: "Community",
+          title: "Network",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              label: "LinkedIn",
+              href: "https://www.linkedin.com/in/anthonyly-dev/",
             },
             {
               label: "Twitter",
-              href: "https://twitter.com/docusaurus",
+              href: "https://twitter.com/tonylyjones",
             },
           ],
         },
@@ -116,12 +117,12 @@ const config: Config = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/tonylyjones",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Anthony Ly, Inc. Built with Docusaurus.`,
+      copyright: `Written by Anthony Ly. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
