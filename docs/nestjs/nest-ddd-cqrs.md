@@ -4,7 +4,7 @@ title: DDD & CQRS avec NestJS
 
 ## Concepts
 
-- DDD: Domain Driven Development ou Conception pilotée par le domaine. Technique consistant à concevoir le développement en séparant le domaine métier des considérations techniques propres à l'implémentation.
+- DDD: Domain Driven Design ou Conception pilotée par le domaine. Technique consistant à concevoir le développement en séparant le domaine métier des considérations techniques propres à l'implémentation.
 - CQRS: Command Query Responsability Segregation. Patron de conception qui sépare la partie lecture et la partie écriture afin de limiter le couplage des fonctionnalités et les effets de bords.
 - NestJS: Framework orienté back-end écrit en TypeScript, inspiré de l'architecture d'Angular.
 
