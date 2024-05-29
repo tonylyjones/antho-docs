@@ -20,9 +20,16 @@ const sidebars: SidebarsConfig = {
     "intro",
     {
       type: "category",
-      label: "NestJS",
-      items: ["nestjs/nest-ddd-cqrs"],
+      label: "Développement",
+      items: [
+        {
+          type: "category",
+          label: "NestJS",
+          items: ["dev/nestjs/nest-ddd-cqrs"],
+        },
+      ],
     },
+    "books/intro",
   ],
 
   projectsSidebar: ["projects/intro"],
