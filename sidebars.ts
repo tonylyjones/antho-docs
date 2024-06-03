@@ -24,6 +24,11 @@ const sidebars: SidebarsConfig = {
       items: [
         {
           type: "category",
+          label: "Stack",
+          items: ["dev/stack/intro"],
+        },
+        {
+          type: "category",
           label: "NestJS",
           items: ["dev/nestjs/nest-ddd-cqrs"],
         },
