@@ -61,6 +61,8 @@ const config: Config = {
       },
       items: [
         { to: "/resume", label: "CV", position: "left" },
+        { to: "/mentoring", label: "Mentorat", position: "left" },
+        { to: "/collective", label: "Collectif", position: "left" },
         {
           type: "docSidebar",
           sidebarId: "projectsSidebar",
@@ -96,6 +98,8 @@ const config: Config = {
               label: "CV",
               to: "/resume",
             },
+            { to: "/mentoring", label: "Mentorat" },
+            { to: "/collective", label: "Collectif" },
             {
               label: "Projets",
               to: "/docs/projects/intro",
