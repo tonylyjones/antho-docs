@@ -97,6 +97,10 @@ const config: Config = {
               to: "/resume",
             },
             {
+              label: "Projets",
+              to: "/docs/projects/intro",
+            },
+            {
               label: "Notes",
               to: "/docs/intro",
             },

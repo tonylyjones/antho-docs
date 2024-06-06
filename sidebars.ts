@@ -37,7 +37,7 @@ const sidebars: SidebarsConfig = {
     "books/intro",
   ],
 
-  projectsSidebar: ["projects/intro"],
+  projectsSidebar: ["projects/intro", "projects/reachmaker"],
 }
 
 export default sidebars
