@@ -38,6 +38,7 @@ const sidebars: SidebarsConfig = {
           items: [
             "dev/mongodb/aggregate/intro",
             "dev/mongodb/aggregate/match",
+            "dev/mongodb/aggregate/project",
             "dev/mongodb/aggregate/add-fields",
           ],
         },
