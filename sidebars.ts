@@ -40,6 +40,7 @@ const sidebars: SidebarsConfig = {
             "dev/mongodb/aggregate/match",
             "dev/mongodb/aggregate/project",
             "dev/mongodb/aggregate/add-fields",
+            "dev/mongodb/aggregate/group",
           ],
         },
       ],
