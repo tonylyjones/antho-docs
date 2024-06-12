@@ -32,6 +32,14 @@ const sidebars: SidebarsConfig = {
           label: "NestJS",
           items: ["dev/nestjs/nest-ddd-cqrs"],
         },
+        {
+          type: "category",
+          label: "MongoDB",
+          items: [
+            "dev/mongodb/aggregate/intro",
+            "dev/mongodb/aggregate/add-fields",
+          ],
+        },
       ],
     },
     "books/intro",
