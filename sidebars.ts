@@ -37,6 +37,7 @@ const sidebars: SidebarsConfig = {
           label: "MongoDB",
           items: [
             "dev/mongodb/aggregate/intro",
+            "dev/mongodb/aggregate/match",
             "dev/mongodb/aggregate/add-fields",
           ],
         },
