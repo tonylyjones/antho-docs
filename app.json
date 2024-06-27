@@ -1,0 +1,9 @@
+{
+  "name": "Anthony Ly",
+  "description": "Just a test codebase for Heroku button.",
+  "repository": "https://github.com/tonylyjones/antho-docs",
+  "keywords": ["developer"],
+  "scripts": {
+    "postdeploy": "./heroku-postdeploy.sh"
+  }
+}
