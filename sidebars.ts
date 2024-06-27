@@ -43,6 +43,11 @@ const sidebars: SidebarsConfig = {
             "dev/mongodb/aggregate/group",
           ],
         },
+        {
+          type: "category",
+          label: "Coolify",
+          items: ["dev/coolify/add-coolify-service"],
+        },
       ],
     },
     "books/intro",
