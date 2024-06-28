@@ -23,6 +23,23 @@ Connaissances supplémentaires: Java, PHP, Python
 
 ## Expériences récentes
 
+`06/2024`
+
+**Azimutt - Full stack developer**
+
+[Azimutt](https://azimutt.app) est outil d'exploration, de design et d'analyse de bases de données.
+
+Lancé officiellement début 2024 à partir d'un side project open source créé en 2021 par [Loïc Knuchel](https://www.linkedin.com/in/loicknuchel), ex Principal Engineer chez Doctolib.
+
+Je suis intervenu dans le cadre d'une mission courte afin d'apporter un renfort technique auprès de Loïc afin qu'il puisse se concentrer sur le développement de la partie commerciale.
+
+- Réalisation d'un export HTML des résultats d'analyse sous la forme d'une app React full static
+- Intégration du bouton "deploy to Heroku" afin de faciliter la prise en main d'une version on-premise. [Détails](/docs/dev/heroku/add-heroku-button)
+- Contribution au projet open source Coolify afin de proposer Azimutt comme service facilement déployable. [Détails](/docs/dev/coolify/add-coolify-service)
+- Développement d'un connecteur Oracle
+
+Grâce à cette expérience, j'ai pu réaliser mes premières contributions à l'ecosystème open source.
+
 `2022-2024`
 
 **Refer Social - Lead Frontend, puis CTO Hands-on**
