@@ -45,8 +45,11 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: "category",
-          label: "Coolify",
-          items: ["dev/coolify/add-coolify-service"],
+          label: "Cloud",
+          items: [
+            "dev/coolify/add-coolify-service",
+            "dev/heroku/add-heroku-button",
+          ],
         },
       ],
     },
