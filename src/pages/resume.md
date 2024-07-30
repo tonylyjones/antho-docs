@@ -23,19 +23,25 @@ Connaissances supplémentaires: Java, PHP, Python
 
 ## Expériences récentes
 
-`06/2024`
+`Depuis Juillet 2024`
 
-**Azimutt - Full stack developer**
+**Axens - Full Stack Developer**
 
-[Azimutt](https://azimutt.app) est outil d'exploration, de design et d'analyse de bases de données.
+Société française du secteur de l’énergie, que j’ai rejoint suite à une recommandation de Johann Oulai, avec qui j’ai collaboré par le passé.
 
-Lancé officiellement début 2024 à partir d'un side project open source créé en 2021 par [Loïc Knuchel](https://www.linkedin.com/in/loicknuchel), ex Principal Engineer chez Doctolib.
+Axens fourni un dashboard détaillé des différentes mesures effectuées par leurs capteurs, reposant sur la technologie Grafana. J’ai rejoint l’équipe de 3 développeurs full-stack afin d’apporter un renfort technique dans le chantier de migration de Grafana 6.x vers 10.x.
 
-Je suis intervenu dans le cadre d'une mission courte afin d'apporter un renfort technique auprès de Loïc afin qu'il puisse se concentrer sur le développement de la partie commerciale.
+`Juin 2024`
+
+**Azimutt - Full Stack Developer**
+
+Azimutt est outil d'exploration, de design et d'analyse de bases de données.
+
+Je suis intervenu dans le cadre d'une mission courte afin d'apporter un renfort technique auprès de Loïc Knuchel, ex Principal Engineer chez Doctolib, afin qu'il puisse se concentrer sur le développement de la partie commerciale.
 
 - Réalisation d'un export HTML des résultats d'analyse sous la forme d'une app React full static
-- Intégration du bouton "deploy to Heroku" afin de faciliter la prise en main d'une version on-premise. [Détails](/docs/dev/heroku/add-heroku-button)
-- Contribution au projet open source Coolify afin de proposer Azimutt comme service facilement déployable. [Détails](/docs/dev/coolify/add-coolify-service)
+- Intégration du bouton "deploy to Heroku" afin de faciliter la prise en main d'une version on-premise.
+- Contribution au projet open source Coolify afin de proposer Azimutt comme service facilement déployable.
 - Développement d'un connecteur Oracle
 
 Grâce à cette expérience, j'ai pu réaliser mes premières contributions à l'ecosystème open source.
@@ -67,7 +73,7 @@ Début 2024, j’ai assuré la transition avec le nouveau CTO qui a lancé la ph
 
 `2023-2024`
 
-**Griokids - CTO Hands-on & Tech advisor**
+**Griokids - Full Stack Developer**
 
 Plateforme audio éducative dédiée aux enfants de 3 à 12 ans et spécialisée dans la culture Afro-caribéenne. L'ambition est de permettre aux enfants d'origines Africaine et Caribéenne grandissant en Europe de découvrir la culture et les langues de leurs aînés. Chaque audio est destiné à être traduit dans plusieurs langages et dialectes. L'ensemble du contenu est produit par Griokids.
 
@@ -88,8 +94,6 @@ L'application a enregistré plus de 1000 inscriptions en un mois, avec un taux d
 Ce premier test a reçu de nombreux retours positifs et a permi aux fondateurs de valider la traction possible d'une telle initiative.
 
 La startup a pivoté vers le service managé Okast afin de concentrer ses ressources sur sa valeur clé: la création de son contenu exclusif.
-
-J'assure désormais un rôle de tech advisor auprès des fondateurs et pourrai reprendre un rôle opérationnel dans un moment plus stratégique.
 
 `2020-2022`
 
@@ -193,11 +197,3 @@ Master Ingénierie Informatique
 Bootcamp Transforme ta startup
 
 [34elements.com](https://www.34elements.com)
-
-`2024 - En cours`
-
-**Launch by STATION F**
-
-Programme en ligne d'entrepreneunariat par Station F
-
-[launch.stationf.co](https://launch.stationf.co)

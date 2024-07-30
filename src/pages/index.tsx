@@ -55,13 +55,6 @@ export default function Home(): JSX.Element {
             </Typography>
 
             <Typography>
-              Actuellement en transition d'activité, je réalise diverses
-              missions en freelance, explore les nouvelles opportunité, continue
-              mon apprentissage via le programme en ligne{" "}
-              <strong>Launch by Station F</strong> et diverses ressources
-              autours du software craftmanship.
-            </Typography>
-            <Typography>
               N'hésitez pas à me contacter, via Twitter ou LinkedIn.
             </Typography>
           </Stack>

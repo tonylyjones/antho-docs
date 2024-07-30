@@ -4,7 +4,7 @@ import type * as Preset from "@docusaurus/preset-classic"
 
 const config: Config = {
   title: "Anthony Ly",
-  tagline: "Software Developer & Entrepreneur",
+  tagline: "CTO Co-founder, Software Engineer & Dev Mentor",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
